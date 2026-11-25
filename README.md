@@ -34,7 +34,7 @@ Display Long Texts for Different Devices: Different watches have different width
 
 # Constraints and Restrictions
 ## Supported Devices
-- Huawei Lite Wearable Devices
+- Huawei SportWatch Devices
 
 # License
 **How to Build Scrollable Dynamic Text** is distributed under the terms of the MIT License
